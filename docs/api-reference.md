@@ -20,5 +20,6 @@ The WinML APIs are divided roughly into three areas, which are listed below.
 | [Core APIs](https://docs.microsoft.com/uwp/api/windows.ai.machinelearning) | The main WinML APIs that are used to load, bind, and evaluate models. Located in the **Windows.AI.MachineLearning** namespace. |
 | [Custom operators](custom-operators.md) | APIs that handle custom operators in WinML. Located in **MLOperatorAuthor.h**. |
 | [Native APIs](native-apis.md) | Native WinML APIs that let you interact with Direct3D. Located in **windows.ai.machinelearning.native.h**. |
+| [DirectML](directml.md) | The DirectML APIs are low-level and allow you to optimize your application to take maximum advantage of the hardware. |
 
 [!INCLUDE [help](includes/get-help.md)]
